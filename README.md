@@ -5,6 +5,10 @@ This is a simple script to automatically convert one .csv file in a folder to .x
 
 For correct execution, download the "_script.bat" and put it in a folder with only one .csv file. Then run the script.
 
+<p align="center">
+  <img src="https://github.com/0ern/csv_to_xlsx/blob/main/Screen.png"/>
+</p>
+
 ## Known bug
 The script now works well with comma separated .csv but not yet with semicolons. 
 
